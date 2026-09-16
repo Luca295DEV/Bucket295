@@ -1,0 +1,18 @@
+{
+    "version": "beta5",
+    "description": "Design games in Inkscape, apply logic in your engine of choice",
+    "homepage": "https://codeberg.org/Luca295/inksgame",
+    "license": "MIT",
+    "architecture": {
+        "64bit": {
+            "url": "https://codeberg.org/Luca295/inksgame/releases/download/beta5/inksgame-windows-amd64.zip",
+            "hash": "ec59684549414cff4e0344db2c938a67beeac5e1a76bc17245802ae5d8b1e2c8",
+            "bin": "inksgame.exe"
+        },
+        "arm64": {
+            "url": "https://codeberg.org/Luca295/inksgame/releases/download/beta5/inksgame-windows-arm64.zip",
+            "hash": "72513baab99a44a6004d03d2f0e87a46281926534d1510b2bd5bc7d1905eb19f",
+            "bin": "inksgame.exe"
+        }
+    }
+}
