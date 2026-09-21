@@ -6,12 +6,12 @@
     "architecture": {
         "64bit": {
             "url": "https://codeberg.org/Luca295/inksgame/releases/download/beta5/inksgame-windows-amd64.zip",
-            "hash": "ec59684549414cff4e0344db2c938a67beeac5e1a76bc17245802ae5d8b1e2c8",
+            "hash": "001a73f2d743346a6e086a82ff27733873845fb2d84c9e5401a3759f5071d276",
             "bin": "inksgame.exe"
         },
         "arm64": {
             "url": "https://codeberg.org/Luca295/inksgame/releases/download/beta5/inksgame-windows-arm64.zip",
-            "hash": "72513baab99a44a6004d03d2f0e87a46281926534d1510b2bd5bc7d1905eb19f",
+            "hash": "3761a4b6e01e2f83c6c7855d2aff1bb33d1cd0a40838264af86f6a297682c3e4",
             "bin": "inksgame.exe"
         }
     }
